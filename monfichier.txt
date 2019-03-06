@@ -1,3 +1,5 @@
 Un nouveau fichier édité avec VIM.
 
 Vraiment bien ce bouzin !
+
+Oui, quoique un peu trop sophistiqué pour moé
